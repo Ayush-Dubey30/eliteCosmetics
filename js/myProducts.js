@@ -58,7 +58,7 @@ function calculatedCart(selectedProduct) {
         }')">x</button>
       </div>
       <div class="col-2 float-left pt-2">
-        <p class="pricePlacement">$${itemPrice}</p>
+        <p class="pricePlacement">Rs.${itemPrice}</p>
       </div>
     </li>
     <div class="clearfix"></div>
